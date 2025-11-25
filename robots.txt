@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thirudev50.github.io/cube-root-by-long-division/sitemap.xml
